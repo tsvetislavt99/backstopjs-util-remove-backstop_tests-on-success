@@ -1,0 +1,16 @@
+{
+  "name": "remove-bitmap_tests-on-success",
+  "version": "1.0.0",
+  "description": "This is a utility function to remove the files from bitmap_tests when tests pass successfully.",
+  "main": "remove-bitmap-tests-on-success.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsvetislavt99/backstopjs-util-remove-backstop_tests-on-success.git"
+  },
+  "author": "Tsvetislav Todorov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsvetislavt99/backstopjs-util-remove-backstop_tests-on-success/issues"
+  },
+  "homepage": "https://github.com/tsvetislavt99/backstopjs-util-remove-backstop_tests-on-success#readme"
+}
