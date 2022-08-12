@@ -1,4 +1,4 @@
-# backstopjs-remove-backstop_tests-on-success
+# backstopjs-remove-bitmap_tests-on-success
 
 This is a utility function to remove the files from bitmap_tests when tests pass successfully.
 
