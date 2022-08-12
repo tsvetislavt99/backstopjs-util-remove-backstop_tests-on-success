@@ -1,6 +1,6 @@
 # backstopjs-remove-bitmap_tests-on-success
 
-This is a utility function to remove the files from bitmap_tests when tests pass successfully.
+This is a utility function to remove the files from `bitmap_tests` when tests pass successfully.
 
  - If all tests succeed the script will delete the whole `bitmap_tests` folder
 
